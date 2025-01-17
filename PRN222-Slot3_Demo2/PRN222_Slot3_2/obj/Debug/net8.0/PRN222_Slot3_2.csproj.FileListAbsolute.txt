@@ -1,0 +1,14 @@
+D:\PRN222\PRN222_Slot3_2\PRN222_Slot3_2\bin\Debug\net8.0\PRN222_Slot3_2.exe
+D:\PRN222\PRN222_Slot3_2\PRN222_Slot3_2\bin\Debug\net8.0\PRN222_Slot3_2.deps.json
+D:\PRN222\PRN222_Slot3_2\PRN222_Slot3_2\bin\Debug\net8.0\PRN222_Slot3_2.runtimeconfig.json
+D:\PRN222\PRN222_Slot3_2\PRN222_Slot3_2\bin\Debug\net8.0\PRN222_Slot3_2.dll
+D:\PRN222\PRN222_Slot3_2\PRN222_Slot3_2\bin\Debug\net8.0\PRN222_Slot3_2.pdb
+D:\PRN222\PRN222_Slot3_2\PRN222_Slot3_2\obj\Debug\net8.0\PRN222_Slot3_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\PRN222_Slot3_2\PRN222_Slot3_2\obj\Debug\net8.0\PRN222_Slot3_2.AssemblyInfoInputs.cache
+D:\PRN222\PRN222_Slot3_2\PRN222_Slot3_2\obj\Debug\net8.0\PRN222_Slot3_2.AssemblyInfo.cs
+D:\PRN222\PRN222_Slot3_2\PRN222_Slot3_2\obj\Debug\net8.0\PRN222_Slot3_2.csproj.CoreCompileInputs.cache
+D:\PRN222\PRN222_Slot3_2\PRN222_Slot3_2\obj\Debug\net8.0\PRN222_Slot3_2.dll
+D:\PRN222\PRN222_Slot3_2\PRN222_Slot3_2\obj\Debug\net8.0\refint\PRN222_Slot3_2.dll
+D:\PRN222\PRN222_Slot3_2\PRN222_Slot3_2\obj\Debug\net8.0\PRN222_Slot3_2.pdb
+D:\PRN222\PRN222_Slot3_2\PRN222_Slot3_2\obj\Debug\net8.0\PRN222_Slot3_2.genruntimeconfig.cache
+D:\PRN222\PRN222_Slot3_2\PRN222_Slot3_2\obj\Debug\net8.0\ref\PRN222_Slot3_2.dll
