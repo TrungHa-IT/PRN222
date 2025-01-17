@@ -1,0 +1,14 @@
+D:\PRN222\PRN222Slot3\TaskDemonstration01\bin\Debug\net8.0\TaskDemonstration01.exe
+D:\PRN222\PRN222Slot3\TaskDemonstration01\bin\Debug\net8.0\TaskDemonstration01.deps.json
+D:\PRN222\PRN222Slot3\TaskDemonstration01\bin\Debug\net8.0\TaskDemonstration01.runtimeconfig.json
+D:\PRN222\PRN222Slot3\TaskDemonstration01\bin\Debug\net8.0\TaskDemonstration01.dll
+D:\PRN222\PRN222Slot3\TaskDemonstration01\bin\Debug\net8.0\TaskDemonstration01.pdb
+D:\PRN222\PRN222Slot3\TaskDemonstration01\obj\Debug\net8.0\TaskDemonstration01.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\PRN222Slot3\TaskDemonstration01\obj\Debug\net8.0\TaskDemonstration01.AssemblyInfoInputs.cache
+D:\PRN222\PRN222Slot3\TaskDemonstration01\obj\Debug\net8.0\TaskDemonstration01.AssemblyInfo.cs
+D:\PRN222\PRN222Slot3\TaskDemonstration01\obj\Debug\net8.0\TaskDemonstration01.csproj.CoreCompileInputs.cache
+D:\PRN222\PRN222Slot3\TaskDemonstration01\obj\Debug\net8.0\TaskDemonstration01.dll
+D:\PRN222\PRN222Slot3\TaskDemonstration01\obj\Debug\net8.0\refint\TaskDemonstration01.dll
+D:\PRN222\PRN222Slot3\TaskDemonstration01\obj\Debug\net8.0\TaskDemonstration01.pdb
+D:\PRN222\PRN222Slot3\TaskDemonstration01\obj\Debug\net8.0\TaskDemonstration01.genruntimeconfig.cache
+D:\PRN222\PRN222Slot3\TaskDemonstration01\obj\Debug\net8.0\ref\TaskDemonstration01.dll
