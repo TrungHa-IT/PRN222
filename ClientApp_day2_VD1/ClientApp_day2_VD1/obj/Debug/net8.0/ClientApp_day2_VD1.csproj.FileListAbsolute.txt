@@ -1,0 +1,14 @@
+D:\kì 7\PRN222\code\ClientApp_day2_VD1\ClientApp_day2_VD1\bin\Debug\net8.0\ClientApp_day2_VD1.exe
+D:\kì 7\PRN222\code\ClientApp_day2_VD1\ClientApp_day2_VD1\bin\Debug\net8.0\ClientApp_day2_VD1.deps.json
+D:\kì 7\PRN222\code\ClientApp_day2_VD1\ClientApp_day2_VD1\bin\Debug\net8.0\ClientApp_day2_VD1.runtimeconfig.json
+D:\kì 7\PRN222\code\ClientApp_day2_VD1\ClientApp_day2_VD1\bin\Debug\net8.0\ClientApp_day2_VD1.dll
+D:\kì 7\PRN222\code\ClientApp_day2_VD1\ClientApp_day2_VD1\bin\Debug\net8.0\ClientApp_day2_VD1.pdb
+D:\kì 7\PRN222\code\ClientApp_day2_VD1\ClientApp_day2_VD1\obj\Debug\net8.0\ClientApp_day2_VD1.GeneratedMSBuildEditorConfig.editorconfig
+D:\kì 7\PRN222\code\ClientApp_day2_VD1\ClientApp_day2_VD1\obj\Debug\net8.0\ClientApp_day2_VD1.AssemblyInfoInputs.cache
+D:\kì 7\PRN222\code\ClientApp_day2_VD1\ClientApp_day2_VD1\obj\Debug\net8.0\ClientApp_day2_VD1.AssemblyInfo.cs
+D:\kì 7\PRN222\code\ClientApp_day2_VD1\ClientApp_day2_VD1\obj\Debug\net8.0\ClientApp_day2_VD1.csproj.CoreCompileInputs.cache
+D:\kì 7\PRN222\code\ClientApp_day2_VD1\ClientApp_day2_VD1\obj\Debug\net8.0\ClientApp_day2_VD1.dll
+D:\kì 7\PRN222\code\ClientApp_day2_VD1\ClientApp_day2_VD1\obj\Debug\net8.0\refint\ClientApp_day2_VD1.dll
+D:\kì 7\PRN222\code\ClientApp_day2_VD1\ClientApp_day2_VD1\obj\Debug\net8.0\ClientApp_day2_VD1.pdb
+D:\kì 7\PRN222\code\ClientApp_day2_VD1\ClientApp_day2_VD1\obj\Debug\net8.0\ClientApp_day2_VD1.genruntimeconfig.cache
+D:\kì 7\PRN222\code\ClientApp_day2_VD1\ClientApp_day2_VD1\obj\Debug\net8.0\ref\ClientApp_day2_VD1.dll

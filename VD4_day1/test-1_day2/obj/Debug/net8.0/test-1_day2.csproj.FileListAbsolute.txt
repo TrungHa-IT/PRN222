@@ -1,0 +1,14 @@
+D:\kì 7\PRN222\code\test-1_day2\test-1_day2\bin\Debug\net8.0\test-1_day2.exe
+D:\kì 7\PRN222\code\test-1_day2\test-1_day2\bin\Debug\net8.0\test-1_day2.deps.json
+D:\kì 7\PRN222\code\test-1_day2\test-1_day2\bin\Debug\net8.0\test-1_day2.runtimeconfig.json
+D:\kì 7\PRN222\code\test-1_day2\test-1_day2\bin\Debug\net8.0\test-1_day2.dll
+D:\kì 7\PRN222\code\test-1_day2\test-1_day2\bin\Debug\net8.0\test-1_day2.pdb
+D:\kì 7\PRN222\code\test-1_day2\test-1_day2\obj\Debug\net8.0\test-1_day2.GeneratedMSBuildEditorConfig.editorconfig
+D:\kì 7\PRN222\code\test-1_day2\test-1_day2\obj\Debug\net8.0\test-1_day2.AssemblyInfoInputs.cache
+D:\kì 7\PRN222\code\test-1_day2\test-1_day2\obj\Debug\net8.0\test-1_day2.AssemblyInfo.cs
+D:\kì 7\PRN222\code\test-1_day2\test-1_day2\obj\Debug\net8.0\test-1_day2.csproj.CoreCompileInputs.cache
+D:\kì 7\PRN222\code\test-1_day2\test-1_day2\obj\Debug\net8.0\test-1_day2.dll
+D:\kì 7\PRN222\code\test-1_day2\test-1_day2\obj\Debug\net8.0\refint\test-1_day2.dll
+D:\kì 7\PRN222\code\test-1_day2\test-1_day2\obj\Debug\net8.0\test-1_day2.pdb
+D:\kì 7\PRN222\code\test-1_day2\test-1_day2\obj\Debug\net8.0\test-1_day2.genruntimeconfig.cache
+D:\kì 7\PRN222\code\test-1_day2\test-1_day2\obj\Debug\net8.0\ref\test-1_day2.dll

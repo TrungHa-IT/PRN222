@@ -1,0 +1,14 @@
+D:\kì 7\PRN222\code\UDPServerAPP_VD2_Day2\UDPServerAPP_VD2_Day2\bin\Debug\net8.0\UDPServerAPP_VD2_Day2.exe
+D:\kì 7\PRN222\code\UDPServerAPP_VD2_Day2\UDPServerAPP_VD2_Day2\bin\Debug\net8.0\UDPServerAPP_VD2_Day2.deps.json
+D:\kì 7\PRN222\code\UDPServerAPP_VD2_Day2\UDPServerAPP_VD2_Day2\bin\Debug\net8.0\UDPServerAPP_VD2_Day2.runtimeconfig.json
+D:\kì 7\PRN222\code\UDPServerAPP_VD2_Day2\UDPServerAPP_VD2_Day2\bin\Debug\net8.0\UDPServerAPP_VD2_Day2.dll
+D:\kì 7\PRN222\code\UDPServerAPP_VD2_Day2\UDPServerAPP_VD2_Day2\bin\Debug\net8.0\UDPServerAPP_VD2_Day2.pdb
+D:\kì 7\PRN222\code\UDPServerAPP_VD2_Day2\UDPServerAPP_VD2_Day2\obj\Debug\net8.0\UDPServerAPP_VD2_Day2.GeneratedMSBuildEditorConfig.editorconfig
+D:\kì 7\PRN222\code\UDPServerAPP_VD2_Day2\UDPServerAPP_VD2_Day2\obj\Debug\net8.0\UDPServerAPP_VD2_Day2.AssemblyInfoInputs.cache
+D:\kì 7\PRN222\code\UDPServerAPP_VD2_Day2\UDPServerAPP_VD2_Day2\obj\Debug\net8.0\UDPServerAPP_VD2_Day2.AssemblyInfo.cs
+D:\kì 7\PRN222\code\UDPServerAPP_VD2_Day2\UDPServerAPP_VD2_Day2\obj\Debug\net8.0\UDPServerAPP_VD2_Day2.csproj.CoreCompileInputs.cache
+D:\kì 7\PRN222\code\UDPServerAPP_VD2_Day2\UDPServerAPP_VD2_Day2\obj\Debug\net8.0\UDPServerAPP_VD2_Day2.dll
+D:\kì 7\PRN222\code\UDPServerAPP_VD2_Day2\UDPServerAPP_VD2_Day2\obj\Debug\net8.0\refint\UDPServerAPP_VD2_Day2.dll
+D:\kì 7\PRN222\code\UDPServerAPP_VD2_Day2\UDPServerAPP_VD2_Day2\obj\Debug\net8.0\UDPServerAPP_VD2_Day2.pdb
+D:\kì 7\PRN222\code\UDPServerAPP_VD2_Day2\UDPServerAPP_VD2_Day2\obj\Debug\net8.0\UDPServerAPP_VD2_Day2.genruntimeconfig.cache
+D:\kì 7\PRN222\code\UDPServerAPP_VD2_Day2\UDPServerAPP_VD2_Day2\obj\Debug\net8.0\ref\UDPServerAPP_VD2_Day2.dll

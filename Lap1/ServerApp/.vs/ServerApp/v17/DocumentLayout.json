@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester 6\\PRN222\\PRN222_CODE\\Lap1\\ServerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67646A41-D4CB-4775-9919-5CFCED050EAE}|ServerApp\\ServerApp.csproj|d:\\semester 6\\prn222\\prn222_code\\lap1\\serverapp\\serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67646A41-D4CB-4775-9919-5CFCED050EAE}|ServerApp\\ServerApp.csproj|solutionrelative:serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Semester 6\\PRN222\\PRN222_CODE\\Lap1\\ServerApp\\ServerApp\\Program.cs",
+              "RelativeDocumentMoniker": "ServerApp\\Program.cs",
+              "ToolTip": "D:\\Semester 6\\PRN222\\PRN222_CODE\\Lap1\\ServerApp\\ServerApp\\Program.cs",
+              "RelativeToolTip": "ServerApp\\Program.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAwwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T00:50:47.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

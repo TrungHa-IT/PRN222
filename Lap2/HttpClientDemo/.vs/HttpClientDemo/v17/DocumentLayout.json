@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\k\u00EC 7\\PRN222\\code\\Lap2\\HttpClientDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7705EBE2-B064-43E8-8866-4FDF6A5A6BE8}|HttpClientDemo\\HttpClientDemo.csproj|d:\\k\u00EC 7\\prn222\\code\\lap2\\httpclientdemo\\httpclientdemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7705EBE2-B064-43E8-8866-4FDF6A5A6BE8}|HttpClientDemo\\HttpClientDemo.csproj|solutionrelative:httpclientdemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7705EBE2-B064-43E8-8866-4FDF6A5A6BE8}|HttpClientDemo\\HttpClientDemo.csproj|d:\\k\u00EC 7\\prn222\\code\\lap2\\httpclientdemo\\httpclientdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7705EBE2-B064-43E8-8866-4FDF6A5A6BE8}|HttpClientDemo\\HttpClientDemo.csproj|solutionrelative:httpclientdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7705EBE2-B064-43E8-8866-4FDF6A5A6BE8}|HttpClientDemo\\HttpClientDemo.csproj|d:\\k\u00EC 7\\prn222\\code\\lap2\\httpclientdemo\\httpclientdemo\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7705EBE2-B064-43E8-8866-4FDF6A5A6BE8}|HttpClientDemo\\HttpClientDemo.csproj|solutionrelative:httpclientdemo\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\k\u00EC 7\\PRN222\\code\\Lap2\\HttpClientDemo\\HttpClientDemo\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "HttpClientDemo\\AssemblyInfo.cs",
+              "ToolTip": "D:\\k\u00EC 7\\PRN222\\code\\Lap2\\HttpClientDemo\\HttpClientDemo\\AssemblyInfo.cs",
+              "RelativeToolTip": "HttpClientDemo\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T01:29:51.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\k\u00EC 7\\PRN222\\code\\Lap2\\HttpClientDemo\\HttpClientDemo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HttpClientDemo\\MainWindow.xaml",
+              "ToolTip": "D:\\k\u00EC 7\\PRN222\\code\\Lap2\\HttpClientDemo\\HttpClientDemo\\MainWindow.xaml",
+              "RelativeToolTip": "HttpClientDemo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-17T01:29:27.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\k\u00EC 7\\PRN222\\code\\Lap2\\HttpClientDemo\\HttpClientDemo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HttpClientDemo\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\k\u00EC 7\\PRN222\\code\\Lap2\\HttpClientDemo\\HttpClientDemo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HttpClientDemo\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T01:29:25.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
